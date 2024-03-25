@@ -4,6 +4,8 @@ Coop app - https://github.com/akcoop/kpi-views/blob/main/images/kpi/Coop-app.png
 
 Coop - https://github.com/akcoop/kpi-views/blob/main/images/kpi/Coop.no.png?raw=true
 
+Driftsstabilitet - https://github.com/akcoop/kpi-views/blob/main/images/kpi/Driftsstabilitet.png?raw=true
+
 Coopay - https://github.com/akcoop/kpi-views/blob/main/images/kpi/Coopay.png?raw=true
 
 FCR - https://github.com/akcoop/kpi-views/blob/main/images/kpi/FCR.png?raw=true
